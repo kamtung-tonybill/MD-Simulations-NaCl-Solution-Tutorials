@@ -4,3 +4,4 @@ In this set of tutorials, we will use MD simulations to study some equilibrium p
 
 ![Schematic representation of the model system](/nacl-106h2o.dat.tga)
 
+The force fields used in this tutorial are also similar to the ones from PLUMED. The potentials for ion-ion and ion-water interactions were developed by Pettitt and Rossky [[1](https://doi.org/10.1063/1.449894)]. A TIP3P model with parameters corrected for long-range Coulomb interactions [[2](https://doi.org/10.1063/1.1808117)] will be used for water-water interactions.
