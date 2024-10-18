@@ -1,1 +1,1 @@
-# MD-Simulation-NaCl-Solution-Tutorials
+# MD Simulations of a NaCl Solution - Tutorials
