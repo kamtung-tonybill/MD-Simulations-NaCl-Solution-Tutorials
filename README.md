@@ -19,4 +19,5 @@ click A "https://www.plumed-tutorials.org/lessons/21/001/data/NAVIGATION.html" "
 click B "https://www.plumed-tutorials.org/lessons/21/002/data/NAVIGATION.html" "This is a PLUMED masterclass tutorial on how to handle the statistical errors in MD simulations"
 click C "https://www.plumed-tutorials.org/lessons/21/004/data/NAVIGATION.html" "This is a PLUMED masterclass tutorial performing metadynamics simulations with PLUMED"
 click D "https://github.com/kamtung-tonybill/MD-Simulations-NaCl-Solution-Tutorials/blob/main/Model_System.md"
+click E "https://github.com/kamtung-tonybill/MD-Simulations-NaCl-Solution-Tutorials/blob/main/Equilibrium_MD.md"
 ```
