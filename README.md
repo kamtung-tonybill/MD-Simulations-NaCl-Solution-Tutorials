@@ -6,18 +6,16 @@ Before you start the tutorials, you will need to compile and install LAMMPS and 
 - PLUMED installation: https://www.plumed.org/doc-v2.9/user-doc/html/_installation.html
 - LAMMPS installation: https://docs.lammps.org/Install.html
 
-Depending on your previous exposure to MD simulations and using PLUMED for post-processing and enhanced sampling simulations, you may look at the lessons on PLUMED syntax, statistical errors in MD simulations, and metadynamics offered by PLUMD.
+Depending on your previous exposure to MD simulations and using PLUMED for post-processing and enhanced sampling simulations, you may look at the lessons on PLUMED syntax and statistical errors in MD simulations offered by PLUMD.
 
 ```mermaid
 flowchart TD
 A[PLUMED Syntax] ==> B[Statistical Errors in MD]
-B ==> C[Metadynamics]
-C ==> D[Model System]
-D ==> E[Equilibrium MD Simulations]
-E ==> F[Biased MD Simulations]
+B ==> C[Model System]
+C ==> D[Equilibrium MD Simulations]
+D ==> E[Biased MD Simulations]
 click A "https://www.plumed-tutorials.org/lessons/21/001/data/NAVIGATION.html" "This is a PLUMED masterclass tutorial introducing PLUMED syntax and enhanced sampling"
 click B "https://www.plumed-tutorials.org/lessons/21/002/data/NAVIGATION.html" "This is a PLUMED masterclass tutorial on how to handle the statistical errors in MD simulations"
-click C "https://www.plumed-tutorials.org/lessons/21/004/data/NAVIGATION.html" "This is a PLUMED masterclass tutorial performing metadynamics simulations with PLUMED"
-click D "https://github.com/kamtung-tonybill/MD-Simulations-NaCl-Solution-Tutorials/blob/main/Model_System.md"
-click E "https://github.com/kamtung-tonybill/MD-Simulations-NaCl-Solution-Tutorials/blob/main/Equilibrium_MD.md"
+click C "https://github.com/kamtung-tonybill/MD-Simulations-NaCl-Solution-Tutorials/blob/main/Model_System.md"
+click D "https://github.com/kamtung-tonybill/MD-Simulations-NaCl-Solution-Tutorials/blob/main/Equilibrium_MD.md"
 ```
